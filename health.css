@@ -8,7 +8,7 @@
     margin: 0 auto;
   }
   #banner {
-    background-image: url("https://raw.githubusercontent.com/Vidushi-Gupta/HackRice/main/Assets/health.png");
+    background-image: url("https://raw.githubusercontent.com/Vidushi-Gupta/HackRice/main/Assets/health.png?token=ANLAOPOKLH6K7XDKW3IXQ5TBJ5H6G");
     background-repeat: no-repeat;
     background-size: cover;
     height: 500px;
@@ -30,7 +30,7 @@ header div.menu-button {
 
   header h1.logo {
     font-size: 1.5rem;
-    font-weight: 850;
+    font-weight: 7000;
     color: #1e3859;
     float: left;
     margin:0;
@@ -44,7 +44,7 @@ header div.menu-button {
   header nav a {
     text-decoration: none;
     color: #1e3859;
-    font-weight: 850;
+    font-weight: 700;
     font-size: 1rem;
     margin-left: 2rem;
   }
@@ -428,17 +428,14 @@ button {
 footer p{
   text-align: center;
   font-size: 1.1rem;
-  position: relative;
   font-weight: 700;
-  margin-top: 1%;
+  margin-top: 135%;
   color: #1e3859;
 }
 
 footer a {
   text-decoration: none;
   color: #1e3859;
-  margin-top: 3%;
-  /* background-color: #bbddf2; */
 }
 
 
