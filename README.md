@@ -10,7 +10,7 @@ The [World Health Organization (WHO)](https://www.who.int/health-topics/ageing#t
  
  ## Solution
  
-<strong> "Actif ageing" </strong> is a portal developed on the WHO framework which utilizes the three key policy proposals of <strong> Health, Participation </strong> and <strong> Security </strong>. This portal makes a way for physical and mental well being, civic and social participation, safety and security including diversity and inclusion at workplaces. The portal has elderly oriented interface and supports them in any and every way possible in accordance to the WHO framework.
+<strong> "Actif ageing" </strong> is a portal based on the WHO framework which utilizes the three key policy proposals of <strong> Health, Participation </strong> and <strong> Security </strong> to promote active ageing. This portal makes a way for physical and mental well being, civic and social participation, safety and security including diversity and inclusion at workplaces. The portal has elderly oriented interface and supports them in any and every way possible in accordance to the WHO framework. The key highlights of this portal include opportunities for work, awareness and access to health care, assitive devices, care giver support platform, awareness about rights of older persons and vital information to access care and most importantly opportunities to strengthen social network of older persons. 
  
 ## Built With:
 | Software/ Language | Version |
@@ -33,12 +33,12 @@ The [World Health Organization (WHO)](https://www.who.int/health-topics/ageing#t
 ## Working
 
 ## Future Scope
-Actif Age has many future possibilities in order to grow. A few of them are:
+Actif Age has many possibilities for futur growth. Some of them incude:
 
 * Adding a chatbot in order to answer queries or help at the very same moment.
-* Adding social media options in the portal to make it function like a social media. 
-* Adding features to connect with elderly around you.
+* Adding social media options in the portal to strengthen social networks among older persons. 
 * Push notifications for when a community program starts or an elderly connects with you.
+* Connect organizations and NGOs that address ageing issues.
 * Possibility of launching the portal as a mobile application.
 
 ## Credits and Mentions 
