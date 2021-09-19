@@ -44,12 +44,12 @@ Provides readings for well being, a wellness journal for activities, a google ma
 ### Participation page
 Gives information about upcoming life long learning opportunities. With this it also provides details about formal and informal work opportunities. A google calendar has been linked to showcase upcoming community participation events.
 
-![Participation page](https://github.com/Vidushi-Gupta/Actif-ageing/blob/main/Assets/participation-page.gif)
+![Participation page](https://github.com/Vidushi-Gupta/Actif-ageing/blob/main/Assets/participation.gif)
 
 ### Security page
 The page provides a link to all the emergency numbers. Along with this it also creates an awareness about the laws, concessions, facilities and government schemes running for the elderly. 
 
-![Security page](https://github.com/Vidushi-Gupta/Actif-ageing/blob/main/Assets/security-page.gif)
+![Security page](https://github.com/Vidushi-Gupta/Actif-ageing/blob/main/Assets/security.gif)
 
 ### Contact Us page
 Acknowledges and credits the work responsible for the portal. Provides social links to contact the developers of the portal.
