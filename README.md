@@ -18,7 +18,6 @@ The [World Health Organization (WHO)](https://www.who.int/health-topics/ageing#t
 | HTML | 5 |
 | CSS | 3|
 | JavaScript | ES6 |
-| TypeScript | 4.2.4 |
 | Gatsby | 3.14.0 |
 | Visual Studio Code | 1.60 |
 
@@ -69,7 +68,6 @@ Actif Age has many possibilities for future growth. Some of them include:
 ## Credits and Mentions 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
