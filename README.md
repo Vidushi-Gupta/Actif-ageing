@@ -1,4 +1,4 @@
-# Actif Ageing (HackRice 11 submission)
+# Actif Ageing (HackRice 11 submission) <img src=https://github.com/Vidushi-Gupta/Actif-ageing/blob/main/Assets/logo.png width=150 align='right'>
 
  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Vidushi-Gupta/Actif-ageing/graphs/commit-activity)
  [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://vidushi-gupta.github.io/Actif-ageing/)
