@@ -32,6 +32,21 @@ The [World Health Organization (WHO)](https://www.who.int/health-topics/ageing#t
 
 ## Working
 
+### Homepage
+Lists out the services catered on the portal
+
+![Home Page](https://github.com/Vidushi-Gupta/Actif-ageing/blob/main/Assets/homepage.gif)
+
+### Health page
+Provides readings for well being, a wellness journal for activities, a google map with old age centres marked, available assistive devices for rent and access to caregiver support platform.
+
+![Home Page](https://github.com/Vidushi-Gupta/Actif-ageing/blob/main/Assets/health-page.gif)
+
+### Contact Us page
+Acknowledges and credits the work responsible for the portal. Provides social links to contact the developers of the portal.
+
+![Contact Us](https://github.com/Vidushi-Gupta/Actif-ageing/blob/main/Assets/contact-us.gif)
+
 ## Future Scope
 Actif Age has many possibilities for future growth. Some of them include:
 
