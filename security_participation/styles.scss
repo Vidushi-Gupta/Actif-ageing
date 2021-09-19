@@ -1,0 +1,514 @@
+$font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu,
+  Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+//colors
+
+html,
+body {
+  font-family: $font;
+  font-size: 16px;
+  padding: 0;
+  margin: 0;
+  //   background-image: url("https://raw.githubusercontent.com/Vidushi-Gupta/HackRice/main/Assets/security.png");
+}
+// TO CHECK DIV BORDERS
+// * {
+// 	border: 1px solid white;
+// }
+.container {
+  width: 1640px;
+  min-width: 1640px;
+  margin: 0 auto;
+  // @media(max-width: 1440px) {
+  //     width: 1280px;
+  //     min-width: 1280px;
+  // }
+  // @media(max-width: 1280px) {
+  //     width: 976px;
+  //     min-width: 976px;
+  // }
+  // @media(max-width: 976px) {
+  //     width: 768px;
+  //     min-width: 768px;
+  // }
+}
+
+header {
+  width: 80%;
+  height: 60px;
+  padding: 2rem 0;
+  margin-left: 10%;
+  div {
+    &.menu-button {
+      display: none;
+    }
+  }
+  h1 {
+    &.logo {
+      font-size: 1.35rem;
+      font-weight: 700;
+      color: #1e3859;
+      float: left;
+      margin: 0;
+    }
+  }
+  nav {
+    float: right;
+    margin: 0;
+    a {
+      text-decoration: none;
+      color: #1e3859;
+      font-weight: 700;
+      margin-left: 2rem;
+    }
+  }
+}
+
+.banner {
+  display: flex;
+  //   background-color: white;
+  background-image: url("https://raw.githubusercontent.com/Vidushi-Gupta/Actif-ageing/main/Assets/security.png?token=AOQL5HGW3YOXOTEAN7XIQCDBJ7ZEY");
+  background-repeat: no-repeat;
+  align-items: center;
+  object-fit: fill;
+  height: 50vh;
+  position: relative;
+
+  .row {
+    position: relative;
+    .main-text {
+      font-size: 4rem;
+      text-align: left;
+      top: 50%;
+      font-weight: 600;
+      z-index: 9;
+      color: #1e3859;
+    }
+    .sub-heading {
+      font-size: 2rem;
+      text-align: left;
+      top: 70%;
+      font-weight: 400;
+      z-index: 9;
+      color: #1e3859;
+      margin-top: 3%;
+    }
+  }
+}
+
+.banner1 {
+  display: flex;
+  //   background-color: white;
+  background-image: url("https://raw.githubusercontent.com/Vidushi-Gupta/Actif-ageing/main/Assets/participation.png?token=AOQL5HC2DYLUDCW2ZBPNTVTBJ7ZMS");
+  background-repeat: no-repeat;
+  align-items: center;
+  object-fit: fill;
+  height: 50vh;
+  position: relative;
+
+  .row {
+    position: relative;
+    .main-text {
+      font-size: 4rem;
+      text-align: left;
+      top: 50%;
+      font-weight: 600;
+      z-index: 9;
+      color: #1e3859;
+    }
+    .sub-heading {
+      font-size: 2rem;
+      text-align: left;
+      top: 70%;
+      font-weight: 400;
+      z-index: 9;
+      color: #1e3859;
+      margin-top: 3%;
+    }
+  }
+}
+
+.laws {
+  background-color: transparent;
+  position: relative;
+  display: flex;
+  margin-bottom: 10px;
+
+  .text {
+    margin-left: 10%;
+    top: 0%;
+    width: 100%;
+    margin-right: 10%;
+    h3 {
+      font-size: 3rem;
+      // margin-left: 20%;
+      // top: 10%;
+      font-weight: 500;
+      margin-top: 3%;
+    }
+    .button1 {
+      font-size: 2rem;
+      // margin-left: 20%;
+      text-decoration: none;
+      color: #252c30;
+      display: flex;
+      word-wrap: normal;
+      // line-height: 5px;
+      padding-top: 1rem;
+      a {
+        font-size: 2rem;
+        // top: 5%;
+        margin-left: 2%;
+        text-decoration: none;
+        width: auto;
+        color: #252c30;
+        // white-space: nowrap;
+        line-height: 100%;
+      }
+    }
+  }
+}
+
+.assets {
+  background-color: #fff;
+  position: relative;
+  display: flex;
+  .text-assets {
+    margin-left: 10%;
+    top: 0%;
+    width: 100%;
+    margin-right: 10%;
+    h3 {
+      font-size: 3rem;
+      // margin-left: 20%;
+      // top: 10%;
+      font-weight: 500;
+      margin-top: 3%;
+    }
+    .button2 {
+      font-size: 2rem;
+      // margin-left: 20%;
+      text-decoration: none;
+      color: #252c30;
+      display: flex;
+      word-wrap: normal;
+      // line-height: 5px;
+      padding-top: 1rem;
+      a {
+        font-size: 2rem;
+        // top: 5%;
+        margin-left: 2%;
+        text-decoration: none;
+        width: auto;
+        color: #252c30;
+        // white-space: nowrap;
+        line-height: 100%;
+      }
+    }
+  }
+}
+
+.emergency {
+  background-color: #fff;
+  position: relative;
+  display: flex;
+  // height: 30vh;
+  .text-emergency {
+    margin-left: 10%;
+    // top: 10%;
+    width: 100%;
+    margin-right: 10%;
+    h3 {
+      font-size: 3rem;
+      // margin-left: 20%;
+      top: 10%;
+      font-weight: 500;
+      margin-top: 3%;
+    }
+    .number {
+      font-size: 2rem;
+      // margin-left: 20%;
+      text-decoration: none;
+      color: #252c30;
+      display: flex;
+      word-wrap: normal;
+      // line-height: 5px;
+      padding-top: 1rem;
+      a {
+        font-size: 2rem;
+        // top: 5%;
+        margin-left: 2%;
+        text-decoration: none;
+        width: auto;
+        color: #252c30;
+        // white-space: nowrap;
+        line-height: 100%;
+      }
+    }
+  }
+}
+
+//Cards
+
+.card-section {
+  align-content: center;
+  // display: flex;
+  // position: relative;
+  width: 100%;
+  margin-left: 15%;
+  // border: 1px solid #1e3859;
+  margin-bottom: 10%;
+  .textt {
+    margin-left: 3%;
+  }
+
+  .demo-card-square.mdl-card {
+    background-color: #fff;
+    width: 420px;
+    height: 420px;
+    float: left;
+    margin: 1rem;
+    position: relative;
+    &:hover {
+      box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14),
+        0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.2);
+    }
+  }
+}
+.demo-card-square {
+  .mdl-card__title1 {
+    // color: #1e3859;
+    background-image: url("https://www.iad.ac.in/wp-content/uploads/2020/03/tiss-logo-1.png");
+    width: auto;
+    object-fit: contain;
+    margin-top: 0%;
+    margin-left: 15%;
+    align-items: center;
+    background-repeat: no-repeat;
+  }
+  .mdl-card__accent {
+    background: #1e3859;
+  }
+  .mdl-button--accent.mdl-button--accent {
+    color: #1e3859;
+  }
+  .mdl-color-text--blue-700 {
+    color: #1e3259 !important;
+  }
+
+  .mdl-card__title2 {
+    // color: #1e3859;
+    background-image: url("http://illl.du.ac.in/assets/img/logo4.png");
+    width: auto;
+    object-fit: fill;
+    margin-top: 15%;
+    margin-left: 40%;
+    align-items: center;
+    background-repeat: no-repeat;
+  }
+  .mdl-card__accent {
+    background: #1e3859;
+  }
+  .mdl-button--accent.mdl-button--accent {
+    color: #1e3859;
+    font-size: 1rem;
+  }
+  .mdl-color-text--blue-700 {
+    color: #1e3259 !important;
+  }
+  a {
+    color: #1e3259;
+    font-weight: 500;
+    text-decoration: none;
+  }
+  .mdl-card__title3 {
+    // color: #1e3859;
+    background-image: url("https://www.iiale.org/images/index_01.png");
+    width: auto;
+    object-fit: contain;
+    margin-top: 15%;
+    margin-left: 35%;
+    align-items: center;
+    background-repeat: no-repeat;
+  }
+  .mdl-card__accent {
+    background: #1e3859;
+  }
+  .mdl-button--accent.mdl-button--accent {
+    color: #1e3859;
+  }
+  .mdl-color-text--blue-700 {
+    color: #1e3259 !important;
+  }
+}
+
+.card__list {
+  max-width: 1200px;
+  margin: 2rem auto;
+  position: relative;
+  .headingg {
+    margin-top: 40%;
+    margin-left: -3%;
+    color: #1e3859;
+  }
+}
+.card__img1 {
+  flex: 1 30%;
+  -webkit-flex: 1 0%;
+  overflow: hidden;
+  position: relative;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg");
+  background-repeat: no-repeat;
+}
+
+.card__img {
+  flex: 1 30%;
+  -webkit-flex: 1 0%;
+  overflow: hidden;
+  position: relative;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg");
+  background-repeat: no-repeat;
+}
+
+.card {
+  margin-top: 1px;
+  background-color: white;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  border: solid 1px #1e3859;
+  flex-direction: row;
+  height: 170px;
+  margin-bottom: 1.5rem;
+  -webkit-box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.05);
+  box-shadow: 0 1px 5px 0 #bbddf2;
+  transition: all 0.25s ease-in;
+  &:hover {
+    transform: translateY(-5px);
+    -webkit-box-shadow: 0 2px 10px 0 #bbddf2;
+    box-shadow: 0 2px 10px 0 #bbddf2;
+  }
+}
+
+.card__img-preview {
+  display: block;
+  object-fit: cover;
+  margin: 0 auto;
+  min-width: 150px;
+  max-width: 100%;
+  min-height: 100%;
+  transition: all 0.5s ease 0s;
+  &:hover {
+    transform: scale(1.5);
+  }
+}
+.card-img-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: 0.5rem;
+}
+.card__content {
+  flex: 1 70%;
+  -webkit-flex: 1 70%;
+  padding: 0.8rem;
+  color: #1e3259 !important;
+}
+.job-title a{
+ color: #1e3259 !important;
+}
+.card__title {
+  font-size: 1.2rem;
+  font-weight: 700;
+  margin: 0;
+  color:#1e3859;
+}
+.card__text {
+  font-size: 0.9rem;
+  margin: 0;
+}
+.card__description {
+  font-size: 1.2rem;
+  margin: 0;
+  margin-top: 0.5rem;
+  color: #888;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 4;
+  max-height: 2.5rem;
+  line-height: 1.2rem;
+}
+.card__bottom {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  align-content: center;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  border-top: 1px solid #1e3859;
+  text-align: right;
+  padding-top: 0.5rem;
+  margin-top: 1rem;
+  font-size: 0.8rem;
+  color: #888;
+}
+
+
+.events {
+  margin-top: 1%;
+  border: none;
+  width: 70%;
+  height: 100%;
+  margin-left: 15%;
+  .calendar {
+    width: auto;
+    margin-top: 1%;
+    height: auto;
+  }
+}
+.mdl-card mdl-shadow--2dp demo-card-square{
+  border: 1px solid #1e3859;
+}
+.mdl-card {
+  margin-top: 40px;
+  border: 1px solid #1e3859;
+}
+.mdl-card--horizontal {
+  flex-direction: column;
+  height: 1vh; /* 1 */
+  padding-left: 150px;
+  width: 100%;
+  margin-left: 33%;
+
+  .mdl-card__media {
+    left: 0;
+    position: absolute;
+    width: 150px;
+    background-image: url("https://cdn.discordapp.com/attachments/691756048599744543/887530759454330890/streamforewstooo.png");
+  }
+
+  .mdl-card__supporting-text {
+    flex: 1 1 auto;
+    width: auto;
+    font-size: 1rem;
+    color: #1e3859;
+  }
+}
+
+footer {
+	p {
+		text-align: center;
+		font-size: 1.1rem;
+		font-weight: 700;
+		color: #1e3859;
+	}
+	a {
+		text-decoration: none;
+		color: #1e3859;
+	}
+}
