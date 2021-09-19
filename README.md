@@ -40,7 +40,7 @@ Lists out the services catered on the portal
 ### Health page
 Provides readings for well being, a wellness journal for activities, a google map with old age centres marked, available assistive devices for rent and access to caregiver support platform.
 
-![Home Page](https://github.com/Vidushi-Gupta/Actif-ageing/blob/main/Assets/health-page.gif)
+![Health Page](https://github.com/Vidushi-Gupta/Actif-ageing/blob/main/Assets/health-page.gif)
 
 ### Contact Us page
 Acknowledges and credits the work responsible for the portal. Provides social links to contact the developers of the portal.
