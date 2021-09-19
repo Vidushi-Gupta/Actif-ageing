@@ -33,7 +33,7 @@ The [World Health Organization (WHO)](https://www.who.int/health-topics/ageing#t
 ## Working
 
 ## Future Scope
-Actif Age has many possibilities for futur growth. Some of them incude:
+Actif Age has many possibilities for future growth. Some of them include:
 
 * Adding a chatbot in order to answer queries or help at the very same moment.
 * Adding social media options in the portal to strengthen social networks among older persons. 
