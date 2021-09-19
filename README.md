@@ -30,7 +30,21 @@
 ## Future Scope
 
 ## Credits and Mentions 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
+- The following portal is based on the <strong> World Health Organization's (WHO) </strong>active ageing policy framework.
+- Credits to <strong> Unsplash </strong> and <strong> Pexels </strong> for all the photographs used in this portal.
+- Mention to know your rights and the <strong> Indian government portals </strong> for the information.
 ## Contributors
 <table align="center">
 <tr align="center">
@@ -47,7 +61,7 @@
 </p>
 </td>
 <td>
-<strong>Shubhra Agarwal</strong>
+<strong>Abhimanyu Bhadauria</strong>
 <p align="center">
 <img src = "https://i.ibb.co/n1NrGvG/Group-1.png" alt="Abhimanyu Bhadauria" height="120">
 </p>
