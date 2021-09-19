@@ -6,7 +6,11 @@
  
  ## Problem Statement
  
+The [World Health Organization (WHO)](https://www.who.int/health-topics/ageing#tab=tab_1) facts say that by 2050, 2 billion people will be 60 or older. Today, people aged 60 outnumber the children under 5. Facts also suggest that by 2050, about 80% of the older people will live in low and middle income countries. All this calls a need for policy-makers to develop policies for active ageing of the population. The [World Health Organization](https://apps.who.int/iris/bitstream/handle/10665/67215/WHO_NMH_NPH_02.8.pdf?sequence=1&isAllowed=y) released an active ageing framework to acknowledge and support the major role that people play as they age in caring for others. There was a need to implement this framework digitally for the elederly to actively age in times of the Pandemic. 
+ 
  ## Solution
+ 
+<strong> "Actif ageing" </strong> is a portal developed on the WHO framework which utilizes the three key policy proposals of <strong> Health, Participation </strong> and <strong> Security </strong>. This portal makes a way for physical and mental well being, civic and social participation, safety and security including diversity and inclusion at workplaces. The portal has elderly oriented interface and supports them in any and every way possible in accordance to the WHO framework.
  
 ## Built With:
 | Software/ Language | Version |
@@ -21,13 +25,21 @@
 ## Tested on:
 | Browser | Version |
 |----------|---------|
-| Mozilla Firefox browser | 92.0 |
-| Microsoft Edge Browser | 93.0.961.38 |
-| Google Chrome Browser | 93.0.4577.82 |
+| Mozilla Firefox | 92.0 |
+| Microsoft Edge | 93.0.961.38 |
+| Google Chrome | 93.0.4577.82 |
+| Safari | 14.1 |
 
 ## Working
 
 ## Future Scope
+Actif Age has many future possibilities in order to grow. A few of them are:
+
+* Adding a chatbot in order to answer queries or help at the very same moment.
+* Adding social media options in the portal to make it function like a social media. 
+* Adding features to connect with elderly around you.
+* Push notifications for when a community program starts or an elderly connects with you.
+* Possibility of launching the portal as a mobile application.
 
 ## Credits and Mentions 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
